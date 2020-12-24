@@ -3,10 +3,19 @@ The implementation of “Prediction of circRNA-miRNA associations based on Netwo
 ## Requirement
 Python 3.7.4
 
-numpy
+- numpy
 
-pandas
+- pandas
 
-scipy.sparse
+- scipy.sparse
 
-theano
+- theano
+
+##Data
+
+###circRNA-miRNA.csv
+
+## Run
+
+###Predicted_circRNA_miRNA.py
+
