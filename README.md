@@ -1,5 +1,5 @@
 # NECMA
-The implementation of “Prediction of circRNA-miRNA associations based on Network Embedding”, Wei Lan, Mingrui Zhu, Qingfeng Chen, Jianwei Chen, Jin Ye, Jin Liu
+The implementation of “Prediction of circRNA-miRNA associations based on Network Embedding”, Wei Lan, Mingrui Zhu, Qingfeng Chen, Jianwei Chen, Jin Ye, Jin Liu, Wei Peng, Shirui Pan, Complexity, 2021.
 ## Requirement
 - Python 3.7.4
 
